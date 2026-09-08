@@ -1,0 +1,11 @@
+case_id,error_type,error
+557a0d37-7b9d-4ca5-af12-71596dffcc1e,RuntimeError,"Both Gemini and Qwen failed.
+
+Gemini error:
+429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. ', 'status': 'RESOURCE_EXHAUSTED'}}
+
+Qwen error:
+Client error '402 Payment Required' for url 'https://router.huggingface.co/nscale/v1/chat/completions' (Request ID: Root=1-6a9eefdb-29f0e82d4d28efd952ff5525;d5594b14-e308-4252-b6e5-6b4d9156edca)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402
+
+You have depleted your monthly included credits. Purchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get 20x more included usage."

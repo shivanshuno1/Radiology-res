@@ -1,0 +1,85 @@
+{
+  "findings": [
+    {
+      "finding": "moderate supraspinatus tendinosis with low-grade bursal-sided/intrasubstance partial-thickness tear",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": "SUPRASPINATUS",
+      "parent_section": "TENDONS",
+      "action": "modify"
+    },
+    {
+      "finding": "mild insertional subscapularis tendinosis without a discrete tear",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": "SUBSCAPULARIS",
+      "parent_section": "TENDONS",
+      "action": "modify"
+    },
+    {
+      "finding": "moderate long head of the biceps tenosynovitis",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": "BICEPS BRACHII, LONG HEAD",
+      "parent_section": "TENDONS",
+      "action": "modify"
+    },
+    {
+      "finding": "mild degenerative fraying of the superior labrum without a displaced tear",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": null,
+      "parent_section": null,
+      "action": "insert"
+    },
+    {
+      "finding": "moderate glenohumeral joint effusion with distention of the subscapularis recess",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": "GLENOHUMERAL JOINT",
+      "parent_section": "JOINTS",
+      "action": "modify"
+    },
+    {
+      "finding": "moderate acromioclavicular osteoarthrosis with inferior osteophytic spurring resulting in mild subacromial outlet narrowing",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": "ACROMIOCLAVICULAR JOINT",
+      "parent_section": "JOINTS",
+      "action": "modify"
+    },
+    {
+      "finding": "moderate subacromial-subdeltoid bursitis",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": null,
+      "parent_section": null,
+      "action": "insert"
+    },
+    {
+      "finding": "small subcortical cystic changes with mild reactive marrow edema in the greater tuberosity at the supraspinatus insertion",
+      "negated": false,
+      "laterality": null,
+      "measurement": "small",
+      "target_section": "BONES",
+      "parent_section": null,
+      "action": "modify"
+    },
+    {
+      "finding": "mild thickening and edema within the rotator interval and inferior glenohumeral capsule",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": null,
+      "parent_section": null,
+      "action": "insert"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "case_id": "2066ed76-9f41-4ac8-95f6-74ec1e4cef8a",
+  "findings": [
+    {
+      "finding": "moderate supraspinatus tendinosis with low-grade bursal-sided/intrasubstance partial-thickness tear",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": "SUPRASPINATUS",
+      "parent_section": "TENDONS",
+      "action": "modify"
+    },
+    {
+      "finding": "mild insertional subscapularis tendinosis without a discrete tear",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": "SUBSCAPULARIS",
+      "parent_section": "TENDONS",
+      "action": "modify"
+    },
+    {
+      "finding": "moderate long head of the biceps tenosynovitis",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": "BICEPS BRACHII, LONG HEAD",
+      "parent_section": "TENDONS",
+      "action": "modify"
+    },
+    {
+      "finding": "mild degenerative fraying of the labrum without a displaced tear",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": null,
+      "parent_section": null,
+      "action": "insert"
+    },
+    {
+      "finding": "moderate glenohumeral joint effusion with distention of the subscapularis recess",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": "GLENOHUMERAL JOINT",
+      "parent_section": "JOINTS",
+      "action": "modify"
+    },
+    {
+      "finding": "moderate acromioclavicular osteoarthrosis with inferior osteophytic spurring",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": "ACROMIOCLAVICULAR JOINT",
+      "parent_section": "JOINTS",
+      "action": "modify"
+    },
+    {
+      "finding": "moderate subacromial-subdeltoid bursitis",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": null,
+      "parent_section": null,
+      "action": "insert"
+    },
+    {
+      "finding": "small subcortical cystic changes with mild reactive marrow edema in the greater tuberosity",
+      "negated": false,
+      "laterality": null,
+      "measurement": "small",
+      "target_section": "BONES",
+      "parent_section": null,
+      "action": "modify"
+    },
+    {
+      "finding": "mild thickening and edema within the rotator interval and inferior glenohumeral capsule",
+      "negated": false,
+      "laterality": null,
+      "measurement": null,
+      "target_section": null,
+      "parent_section": null,
+      "action": "insert"
+    }
+  ],
+  "invalid_findings": [],
+  "impression": "Moderate supraspinatus tendinosis with low-grade bursal-sided/intrasubstance partial-thickness tear, mild insertional subscapularis tendinosis without discrete tear, moderate long head of biceps tenosynovitis, mild degenerative labral fraying without displaced tear, moderate glenohumeral joint effusion with subscapularis recess distention, moderate acromioclavicular osteoarthrosis with inferior osteophytic spurring, moderate subacromial-subdeltoid bursitis, small subcortical cystic changes with mild reactive marrow edema in the greater tuberosity, and mild thickening/edema of the rotator interval and inferior glenohumeral capsule.",
+  "report": "FINDINGS:\nTENDONS:\nSUPRASPINATUS: Moderate supraspinatus tendinosis with low-grade bursal-sided/intrasubstance partial-thickness tear\nINFRASPINATUS: The tendon is intact with normal signal intensity.\nSUBSCAPULARIS: Mild insertional subscapularis tendinosis without a discrete tear. The tendon is intact with normal signal intensity\nTERES MINOR: The tendon is intact with normal signal intensity.\nBICEPS BRACHII, LONG HEAD: Moderate long head of the biceps tenosynovitis. The tendon is normally located within the bicipital groove and is intact\nLIGAMENTS:\nGLENOHUMERAL: The superior, middle, and inferior glenohumeral ligaments are intact.\nJOINTS:\nGLENOHUMERAL JOINT: Moderate glenohumeral joint effusion with distention of the subscapularis recess. The articular cartilage is preserved\nACROMIOCLAVICULAR JOINT: Moderate acromioclavicular osteoarthrosis with inferior osteophytic spurring\nBONES: Small subcortical cystic changes with mild reactive marrow edema in the greater tuberosity. No acute fracture, dislocation, or aggressive osseous lesion\nMUSCLES: The rotator cuff muscles demonstrate normal bulk and signal intensity without evidence of atrophy or edema.\n\nOTHER FINDINGS:\nmild degenerative fraying of the labrum without a displaced tear\nmoderate subacromial-subdeltoid bursitis\nmild thickening and edema within the rotator interval and inferior glenohumeral capsule\n\nIMPRESSION:\nModerate supraspinatus tendinosis with low-grade bursal-sided/intrasubstance partial-thickness tear, mild insertional subscapularis tendinosis without discrete tear, moderate long head of biceps tenosynovitis, mild degenerative labral fraying without displaced tear, moderate glenohumeral joint effusion with subscapularis recess distention, moderate acromioclavicular osteoarthrosis with inferior osteophytic spurring, moderate subacromial-subdeltoid bursitis, small subcortical cystic changes with mild reactive marrow edema in the greater tuberosity, and mild thickening/edema of the rotator interval and inferior glenohumeral capsule.",
+  "validation": {
+    "valid": true,
+    "finding_validation": {
+      "valid": true,
+      "valid_findings": [
+        {
+          "finding": "moderate supraspinatus tendinosis with low-grade bursal-sided/intrasubstance partial-thickness tear",
+          "negated": false,
+          "laterality": null,
+          "measurement": null,
+          "target_section": "SUPRASPINATUS",
+          "parent_section": "TENDONS",
+          "action": "modify"
+        },
+        {
+          "finding": "mild insertional subscapularis tendinosis without a discrete tear",
+          "negated": false,
+          "laterality": null,
+          "measurement": null,
+          "target_section": "SUBSCAPULARIS",
+          "parent_section": "TENDONS",
+          "action": "modify"
+        },
+        {
+          "finding": "moderate long head of the biceps tenosynovitis",
+          "negated": false,
+          "laterality": null,
+          "measurement": null,
+          "target_section": "BICEPS BRACHII, LONG HEAD",
+          "parent_section": "TENDONS",
+          "action": "modify"
+        },
+        {
+          "finding": "mild degenerative fraying of the labrum without a displaced tear",
+          "negated": false,
+          "laterality": null,
+          "measurement": null,
+          "target_section": null,
+          "parent_section": null,
+          "action": "insert"
+        },
+        {
+          "finding": "moderate glenohumeral joint effusion with distention of the subscapularis recess",
+          "negated": false,
+          "laterality": null,
+          "measurement": null,
+          "target_section": "GLENOHUMERAL JOINT",
+          "parent_section": "JOINTS",
+          "action": "modify"
+        },
+        {
+          "finding": "moderate acromioclavicular osteoarthrosis with inferior osteophytic spurring",
+          "negated": false,
+          "laterality": null,
+          "measurement": null,
+          "target_section": "ACROMIOCLAVICULAR JOINT",
+          "parent_section": "JOINTS",
+          "action": "modify"
+        },
+        {
+          "finding": "moderate subacromial-subdeltoid bursitis",
+          "negated": false,
+          "laterality": null,
+          "measurement": null,
+          "target_section": null,
+          "parent_section": null,
+          "action": "insert"
+        },
+        {
+          "finding": "small subcortical cystic changes with mild reactive marrow edema in the greater tuberosity",
+          "negated": false,
+          "laterality": null,
+          "measurement": "small",
+          "target_section": "BONES",
+          "parent_section": null,
+          "action": "modify"
+        },
+        {
+          "finding": "mild thickening and edema within the rotator interval and inferior glenohumeral capsule",
+          "negated": false,
+          "laterality": null,
+          "measurement": null,
+          "target_section": null,
+          "parent_section": null,
+          "action": "insert"
+        }
+      ],
+      "invalid_findings": [],
+      "errors": [],
+      "warnings": []
+    },
+    "report_validation": {
+      "valid": true,
+      "errors": [],
+      "warnings": []
+    },
+    "errors": [],
+    "warnings": [
+      "New section detected: ('', 'OTHER FINDINGS')"
+    ],
+    "template_preservation": {
+      "valid": true,
+      "errors": [],
+      "warnings": [
+        "New section detected: ('', 'OTHER FINDINGS')"
+      ]
+    }
+  }
+}
